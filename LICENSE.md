@@ -1,4 +1,4 @@
-# 
+# 安全 Shotcut 滤镜 Mac OS版 | 专业 Shotcut 滤镜 PC Windows版。集成 淡入淡出 和 协作工具，跨平台性能最大化。
 
 
 
